@@ -1,0 +1,17 @@
+body{
+	background-color: white;
+
+}
+
+.sround {
+	-webkit-box-shadow: 10px 10px 130px -9px rgba(0,0,0,0.55);
+-moz-box-shadow: 10px 10px 130px -9px rgba(0,0,0,0.55);
+box-shadow: 10px 10px 130px -9px rgba(0,0,0,0.55);
+border-radius: 10px;
+}
+
+
+
+.no-bullets {
+    list-style-type: none;
+}
